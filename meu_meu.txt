@@ -1,0 +1,3 @@
+class meu_meu{
+void metodoMalandro();
+}
